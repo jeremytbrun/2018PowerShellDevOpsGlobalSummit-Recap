@@ -24,7 +24,7 @@ The rest of the week consisted of technical deep dives and breakout sessions gea
 
 ## Detailed Session Information
 
-### **Be the Master** with [Don Jones](https://donjones.com/)
+### [**Be the Master**](https://bethemaster.com/) with [Don Jones](https://donjones.com/)
 
 #### Summary
 Don discusses the old "Master/Apprentice" relationship that was more prevalent in the past and why it may be the secret to capable and effective technical skillsets in those who are learning behind us. He also reflected on the past individuals who may have invested their time and efforts into what the technologists we are today.
