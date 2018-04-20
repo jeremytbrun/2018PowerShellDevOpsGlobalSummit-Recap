@@ -35,7 +35,7 @@ I was really challenged by this session because oftentimes I, like most, call in
 #### Action Items
 + I'll be reading Don's book titled _Be the Master_ which takes a deepdive into this valuable concept.
 + I'd like to explore new ways of investing in my relationships with my coworkers. In the technical realm I'd specifically like to continuously foster the automation mindset and a practical application of that is to use PowerShell.
-+ I'm going to continue to invest in developing training opportunites like the _PowerShell Challenge_ that I've been doing with coworkers. I'd like to explore new ways of learning the basics of PowerShell for those who have little to know experience with it.
++ I'm going to continue to invest in developing training opportunites like the _PowerShell Challenge_ that I've been doing with coworkers. I'd like to explore new ways of learning the basics of PowerShell for those who have little to no experience with it.
 
 ### [**Connecting the Dots with PowerShell**](https://powershelldevopsglobalsummit2018.sched.com/event/Cpp3/connecting-the-dots-with-powershell) with [Warren Frame](http://ramblingcookiemonster.github.io/)
 
