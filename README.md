@@ -6,7 +6,7 @@
 ## What is PowerShell + DevOps Global Summit
 PowerShell + DevOps Global Summit is the gathering of PowerShell + DevOps professionals and enthusiasts. More than just a conference, it’s a true in-person gathering of a vibrant commuity - we learn from each other, we develop practices and standards, we share challenges and solutions, and we drive our industry forward. If you’re working with PowerShell, Desired State Configuration, and related technologies, and especially if you’re moving your organization toward a DevOps footing, then this is the 400+ level event you’ve been looking for. [More here...](https://powershell.org/summit/)
 
-## Why I chose to attend What is PowerShell + DevOps Global Summit
+## Why I chose to attend PowerShell + DevOps Global Summit
 When I first discovered this event opportunity I was struck by the level of technical expertise and community involvement exhibited by the event participants.
 
 Now, after attending this event on two different years (2017 and 2018), I am certain that my first impressions were absolutely correct, and I have enjoyed participating and contributing in that experience.
