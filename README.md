@@ -18,7 +18,7 @@ As always one of this event's strongest points is the ability to interface and c
 
 In this particular summit there were a number of sessions that are still inspiring new ideas and thought processes that I can take back to my workplace.
 
-The first day held keynote presentations by Jeffrey Snover (The Shell Father), Don Jones (The DevOps Collective), and others from the Microsoft PowerShell product team shed light on where PowerShell, as a tool, has been, and what the future plans are. PowerShell has skyrocketed in the IT space as a do-all administrative tool, beginning with the Windows OS, now extending into the *nix world. It is my go-to tool for day-to-day operations and having access to this caliber of information and industry leaders enables me to make informed decisions and recommendations.
+The first day held keynote presentations by Jeffrey Snover (The Shell Father), Don Jones (The DevOps Collective). Others from the Microsoft PowerShell product team shed light on where PowerShell, as a tool, has been, and what the future plans are. PowerShell has skyrocketed in the IT space as a do-all administrative tool, beginning with the Windows OS, and now extending into the *nix world. It is my go-to tool for day-to-day operations and having access to this caliber of information and industry leaders enables me to make informed decisions and recommendations.
 
 The rest of the week consisted of technical deep dives and breakout sessions geared towards a spectrum of different IT roles and toolsets - all geared towards automation, automation, and of course, automation.
 
@@ -27,7 +27,7 @@ The rest of the week consisted of technical deep dives and breakout sessions gea
 ### [**Be the Master**](https://bethemaster.com/) with [Don Jones](https://donjones.com/)
 
 #### Summary
-Don discusses the old "Master/Apprentice" relationship that was more prevalent in the past and why it may be the secret to culturing the skillsets of those who are learning behind us. He also reflected on the past individuals who may have invested their time and efforts into the technologists we are today. It's time to _pay it forward_.
+Don discussed the old "Master/Apprentice" relationship that was more prevalent in the past and why it may be the secret to culturing the skillsets of those who are learning behind us. He also reflected on the past individuals who may have invested their time and efforts into the technologists we are today. It's time to _pay it forward_.
 
 #### Takeaways
 I was really challenged by this session because oftentimes I find myself in the "but I don't have anything to offer" category, but we truly do each have unique skillsets and abilities that we bring to the table that someone else is always learning behind us. A similiar concept to the Master/Apprentice relationship is mentorship. Everyone has an opportunity to both be a mentor and be mentored.
@@ -40,7 +40,7 @@ I was really challenged by this session because oftentimes I find myself in the 
 ### [**Connecting the Dots with PowerShell**](https://powershelldevopsglobalsummit2018.sched.com/event/Cpp3/connecting-the-dots-with-powershell) with [Warren Frame](http://ramblingcookiemonster.github.io/)
 
 #### Summary
-One of PowerShell's greatest strengths is its ability to glue pretty much any technologies together. We'll use that strength to pull data from a number of services, connecting the resulting dots with a graph database that could be used as a lightweight CMDB.
+One of PowerShell's greatest strengths is its ability to glue pretty much any technologies together. Warren used that strength to pull data from a number of services, connecting the resulting dots with a graph database that could be used as a lightweight CMDB.
 
 #### Takeaways
 This session was fascinating. Not only did I learn more than I ever have about Graph database implementations like [Neo4j](https://neo4j.com/), but also how quickly something like an asset discovery solution could be stood up and seeded with data that is relevant and relational. This was by no means a fully built out solution, but it was simple POC that demonstrated a methodology and technology that was extremely capable at scale.
@@ -62,7 +62,8 @@ This was a high caliber presentation! Lee is a polished speaker and knows his st
 ### [**Whip Your Scripts into Shape: Optimizing PowerShell for Speed**](https://powershelldevopsglobalsummit2018.sched.com/event/Cq9V/whip-your-scripts-into-shape-optimizing-powershell-for-speed) with [Josh King](https://king.geek.nz/)
 
 #### Summary
-With a handful of techniques tucked away in your tool belt your PowerShell code will be running faster than ever. Buckle up for a demo heavy session that can’t drop below 50 mph. When every second counts, you can’t sit around waiting for your script to finish. 
+Josh demonstrated a few ways a small syntax change or structure can make all the difference in the performance of your PowerShell scripts. Especially when processing large amounts of data.
+
 
 #### Takeaways
 Josh did a great job of demonstrating many different "gotchas" that can really make the difference in speed when running IOPS and CPU intensive PowerShell scripts. He boiled it down into easily grasped chunks of demonstration code.
@@ -79,7 +80,8 @@ This is a field of scripting that I've been fascinated with for a long time. I a
 Mike walked us through the threefold model of documentation, the many forms of documentation, and tips and advice to help humans produce more and better documentation for their teammates, customers, and future selves.
 
 #### Takeaways
-Documentation is something just about all of us can improve on. Sometimes is can seem more intimidating to write in real english than in code for me though! Mike made it a very approachable and achievable task though, as he demonstrated the different effective ways that we can leave a story behind with our code that both others and our future selves will appreciate when reading or supporting our code.
+
+Documentation is something just about all of us can improve on. Sometimes it can seem more intimidating to write in real english than in code for me though! Mike made it a very approachable and achievable task though, as he demonstrated the different effective ways that we can leave a story behind with our code that both others and our future selves will appreciate when reading or supporting our code.
 
 I'm constantly evaluating the effectiveness of the documentation (or lack of in some cases) of the code that I produce for my work role. The information Mike had to share is going to help me continue to fine-tune those results.
 
